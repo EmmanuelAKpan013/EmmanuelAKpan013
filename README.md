@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EmmanuelAKpan013
+- 👋 Hi, my name is Emmanuel Akpan @EmmanuelAKpan013
 - 👀 I’m interested in Building projects, coding and building connections
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on different projects that will be useful to users and help me grow in my carreer
