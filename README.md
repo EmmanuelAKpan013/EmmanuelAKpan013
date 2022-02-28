@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Emmanuel Akpan @EmmanuelAKpan013
 - 👀 I’m interested in Building projects, coding and building connections
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript and also undergoing a 12 months Software Engineer Program with ALX-Africa
 - 💞️ I’m looking to collaborate on different projects that will be useful to users and help me grow in my carreer
 - 📫 How to reach me, you can email me ---sundayemma013@gmail.com or call or whatsapp me via +2348084011293
 
